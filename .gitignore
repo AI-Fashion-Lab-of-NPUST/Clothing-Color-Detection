@@ -1,0 +1,14 @@
+# Exclude development history only
+development_history/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary files
+.DS_Store
+Thumbs.db
